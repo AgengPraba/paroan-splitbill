@@ -2,7 +2,7 @@
 
 Aplikasi web modern untuk membagi tagihan dengan teman-teman secara mudah dan transparan. Dibangun dengan React, TypeScript, dan Tailwind CSS.
 
-![Paroan Split Bill](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Paroan+Split+Bill)
+<img width="2861" height="1528" alt="Image" src="https://github.com/user-attachments/assets/b14d1713-ce87-43be-9c29-5806979567a6" />
 
 ## ✨ Fitur Utama
 
