@@ -117,19 +117,3 @@ src/
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👨‍💻 Author
-
-**AgengPraba**
-
-- GitHub: [@AgengPraba](https://github.com/AgengPraba)
-
-## 🙏 Acknowledgments
-
-- [DaisyUI](https://daisyui.com/) untuk komponen UI yang indah
-- [Lucide](https://lucide.dev/) untuk icon yang konsisten
-- [Tailwind CSS](https://tailwindcss.com/) untuk utility classes
-- [React](https://reactjs.org/) untuk library yang powerful
-
----
-
-**Happy Split Billing! 💰✨**
