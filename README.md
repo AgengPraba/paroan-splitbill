@@ -4,7 +4,7 @@ Aplikasi web modern untuk membagi tagihan dengan teman-teman secara mudah dan tr
 
 <img width="2861" height="1528" alt="Image" src="https://github.com/user-attachments/assets/b14d1713-ce87-43be-9c29-5806979567a6" />
 
-## 🚀 Cara Menjalankan Proyek
+## 🚀 Cara Menjalankan Proyek   
 
 ### Prasyarat
 
